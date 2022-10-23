@@ -1,16 +1,13 @@
-### Hi there 👋
+# Abraham Berlin
 
-<!--
-**alberlin232/alberlin232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at Lehigh University studying Computer Science and Data Science in the P.C Rossen School of Engeneering. 
+Currently, I work as a Research Assistent for Professor [Thomas McAndrew] (http://www.thomasmcandrew.com) and build statistical models to forecast COVID-19 and other infectious disease agents to support public health decision making. I am also working on creating a rigorous test bed for ensamble models of influensa like ilnesses in order to compare the performance of two or more different ensemble algorithms on the same surveillance data and on the same set of individual models.
 
-Here are some ideas to get you started:
+** Areas Of Interest**
+Time-series forecasting, ensemble algorithms, statistical learning, concurency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Recent Publications:*
+* [The United States COVID-19 Forecast Hub dataset] (https://www.nature.com/articles/s41597-022-01517-w)
+
+
+
