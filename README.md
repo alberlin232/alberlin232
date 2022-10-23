@@ -12,5 +12,5 @@ Currently, I work as a Research Assistant for Professor [Thomas McAndrew] (http:
 Time-series forecasting, ensemble algorithms, statistical learning, concurrency.
 
 **Recent Publications**
-* [The United States COVID-19 Forecast Hub dataset] (https://www.nature.com/articles/s41597-022-01517-w)
+* [The United States COVID-19 Forecast Hub dataset](https://www.nature.com/articles/s41597-022-01517-w)
 
