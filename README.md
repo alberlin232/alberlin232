@@ -1,15 +1,14 @@
 # Abraham Berlin
 
-I am a student at Lehigh University studying Computer Science and Data Science in the P.C Rossen School of Engineering. 
-Currently, I work as a Research Assistant for Professor [Thomas McAndrew](http://www.thomasmcandrew.com) and build statistical models to forecast COVID-19 and other infectious disease agents to support public health decision making. I am also working on creating a rigorous test bed for ensemble models of influenza-like illnesses in order to compare the performance of two or more different ensemble algorithms on the same surveillance data and on the same set of individual models.
+As a passionate and innovative software engineer, I developed a novel concurrent skiplist in C/C++ that leverages machine learning techniques, achieving a 2x speedup compared to industry-standard lists. With a Master's and Bachelor's degree in Computer Science from Lehigh University, I specialize in multithreaded programming, distributed systems, and advanced data structures. My technical skills include C/C++, Python, Rust, Linux, SQL, and Java..
 
 **Education**
 
-* Lehigh University, BS. Computer Science (2023)
+* Lehigh University, MS. Computer Science (2024)
 
 **Areas Of Interest**
 
-Time-series forecasting, ensemble algorithms, statistical learning, concurrency.
+Multithreaded Programming, Distributed Systems, Data Structures, Deep Learning, Time-series forecasting, 
 
 **Recent Publications**
 * [The United States COVID-19 Forecast Hub dataset](https://www.nature.com/articles/s41597-022-01517-w)
